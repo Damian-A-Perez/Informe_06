@@ -67,6 +67,8 @@ En ninguno de los resultados mostrados en la table se cumple el teorema pues rl 
 Rl debe ser igual a la rth = 1.2k ohm
 
 CONCLUSIONES
+
 Obtenemos una mayor potencia a medida que el valor de la resistencia se acerque mas al valor de la resistencia Thevenin.
-Es necesario obtener el voltaje y la resistencia Thevenin para aplicar el teorema de la maxima transferencia de potencia
+
+Es necesario obtener el voltaje y la resistencia Thevenin para aplicar el teorema de la maxima transferencia de potencia.
 
