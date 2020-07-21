@@ -29,8 +29,11 @@ Teorema de Maxima Transferencia de Potencia:
 4. MATERIALES
 
 5. PROCEDIMIENTO
+5.1 Arme el circuito que se encuentra en la figura
 
+5.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla. Anote los resultados medidos.
 
+5.3 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.
 
 |   RL   |Corriente medida (mA)| voltaje medido (V) |Potencia C Experimentalmente| Potencia C Teoricamente|
 |:---: |  :---:  | :---:  | :---:   |:---:     |
@@ -45,16 +48,16 @@ Teorema de Maxima Transferencia de Potencia:
 |3900|  2.94ma|  11.5v|0.034|0.0337|
 |4700 |   2.54ma  | 11.9v |0.03|0.0304|
 
-6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.
 En ninguno de los resultados mostrados en la table se cumple el teorema pues rl no se parece a la rth de 1.2k ohm. 
 
-6.5.5. ¿Cuál fue la potencia máxima en RL? 
+5.5. ¿Cuál fue la potencia máxima en RL? 
 
 0.047 watss = 47mw
 
 
-6.5.6. ¿Para qué valor de RL se obtiene la MTP?
+5.6. ¿Para qué valor de RL se obtiene la MTP?
 
 Rl debe ser igual a la rth = 1.2k ohm
 
