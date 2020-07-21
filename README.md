@@ -45,7 +45,7 @@ PROCEDIMIENTO
 
 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.
-En ninguno de los resultados mostrados en la table se cumple el teorema pues rl no se parece a la rth de 1.2k ohm 
+En ninguno de los resultados mostrados en la table se cumple el teorema pues rl no se parece a la rth de 1.2k ohm. 
 
 6.5.5. ¿Cuál fue la potencia máxima en RL? 
 
