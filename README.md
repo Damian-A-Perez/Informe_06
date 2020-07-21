@@ -43,3 +43,17 @@ PROCEDIMIENTO
 |3900|  2.94ma|  11.5v|0.034|
 |4700 |   2.54ma  | 11.9v |0.03|
 
+6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta.
+En ninguno de los resultados mostrados en la table se cumple el teorema pues rl no se parece a la rth de 1.2k ohm 
+
+6.5.5. ¿Cuál fue la potencia máxima en RL? 
+
+0.047 watss = 47mw
+
+
+6.5.6. ¿Para qué valor de RL se obtiene la MTP?
+
+Rl debe ser igual a la rth = 1.2k ohm
+
+
