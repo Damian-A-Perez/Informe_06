@@ -51,6 +51,8 @@ Teorema de Maxima Transferencia de Potencia:
 |3900|  2.94ma|  11.5v|0.034|0.0337|
 |4700 |   2.54ma  | 11.9v |0.03|0.0304|
 
+![Cálculo del error lab 6](https://github.com/Damian-A-Perez/Informe_06/blob/master/Anexos/C%C3%A1lculo%20del%20error%20lab%206.pdf)
+
 5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.
 En ninguno de los resultados mostrados en la table se cumple el teorema pues rl no se parece a la rth de 1.2k ohm. 
