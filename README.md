@@ -32,7 +32,6 @@ PROCEDIMIENTO
 
 |   RL   |Corriente medida (mA)| voltaje medido (V) |Potencia C Experimentalmente| Potencia C Teoricamente|
 |:---: |  :---:  | :---:  | :---:   |:---:     |
-|Voltaje (V)  | 3.894 | 3.89   | 3.89  | 3.84   |
 |220 | 10.6ma | 2.32v| 0.0245|
 |470 |  8.98ma | 4.22v| 0.0379|
 |680 |  7.98ma  |5.43v|0.0433|
