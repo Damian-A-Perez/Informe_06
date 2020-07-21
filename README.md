@@ -36,6 +36,8 @@ Teorema de Maxima Transferencia de Potencia:
 
 5.3 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.
 
+![Cálculos lab 6](https://github.com/Damian-A-Perez/Informe_06/blob/master/Anexos/C%C3%A1lculos%20lab%206.pdf)
+
 |   RL   |Corriente medida (mA)| voltaje medido (V) |Potencia C Experimentalmente| Potencia C Teoricamente|
 |:---: |  :---:  | :---:  | :---:   |:---:     |
 |220 | 10.6ma | 2.32v| 0.0245|0.0245|
