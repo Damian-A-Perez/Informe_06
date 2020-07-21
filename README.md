@@ -29,6 +29,7 @@ Teorema de Maxima Transferencia de Potencia:
 4. MATERIALES
 
 5. PROCEDIMIENTO
+
 5.1 Arme el circuito que se encuentra en la figura
 
 5.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla. Anote los resultados medidos.
