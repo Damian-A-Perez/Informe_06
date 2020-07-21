@@ -26,7 +26,9 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 Teorema de Maxima Transferencia de Potencia:
 
-PROCEDIMIENTO
+4. MATERIALES
+
+5. PROCEDIMIENTO
 
 
 
