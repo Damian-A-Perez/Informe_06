@@ -25,7 +25,14 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 3. MARCO TEÓRICO
 
 Teorema de Maxima Transferencia de Potencia:
+Al principio existio una confusion entre un circuito con la maxima eficiencia y la maxima transferencia de potencia, Gracias  Edison en 1880 se dio a entender que para alcanzar la maxima eficiencia, la resistencia de la fuente debia ser lo mas pequeña posible, por lo contrario. Para la maxima transferencia de pontecia en un circuito tiene lugar cuando la resistencia de carga es igual a la resistencia interna de un generador
 
+Al teorema de Maxima Transferencia de Potencia, tambien se lo reconoce como Ley de Jacobi. Debido a que Moritz von Jacobi fue el primero en descubrir su concepto.
+
+El teorema establece cómo escoger (para maximizar la transferencia de potencia) la resistencia de carga, una vez que la resistencia de fuente ha sido fijada, no lo contrario. No dice cómo escoger la resistencia de fuente, una vez que la resistencia de carga ha sido fijada. Dada una cierta resistencia de carga, la resistencia de fuente que maximiza la transferencia de potencia es siempre cero, independientemente del valor de la resistencia de carga.
+
+De esta forma se puede concluir que, para hallar la maxima transferencia de pontencia en un circuito “La potencia máxima será desarrollada en la carga
+cuando la resistencia de carga RL sea igual a la resistencia interna de la fuente Rf”
 4. MATERIALES
 
 5. PROCEDIMIENTO
@@ -71,4 +78,8 @@ CONCLUSIONES
 Obtenemos una mayor potencia a medida que el valor de la resistencia se acerque mas al valor de la resistencia Thevenin.
 
 Es necesario obtener el voltaje y la resistencia Thevenin para aplicar el teorema de la maxima transferencia de potencia.
+
+RECOMENDACIONES
+
+
 
