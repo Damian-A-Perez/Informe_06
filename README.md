@@ -107,6 +107,7 @@ CRONOGRAMA
 Bibliografia:
 
 --ElectronicaUnicorn, (2020),Recuperado de:https://unicrom.com/teorema-de-maxima-transferencia-de-potencia/
+
 --H.W. Jackson (1959) Introduction to Electronic Circuits, Prentice-Hall.
 
 
