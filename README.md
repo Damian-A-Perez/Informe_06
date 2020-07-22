@@ -36,14 +36,16 @@ cuando la resistencia de carga RL sea igual a la resistencia interna de la fuent
 
 El teorema de maxima transferencia de pontencia, es reconocido como un adicional al teorema de thevenin, siendo este el punto de partida para el cual la potencia maxima en un circuito sea encontrada, tomando en cuenta los valores, las relaciones y la calidad del circuito de thevenin previamente obtenido, de esta manera observamos como los metodos de calculo y reduccion de circuitos, se pueden usar variadamente para encontrar toda clase de interrogantes.
 
-
+![Teorema de Maxima Transferencia](https://github.com/Damian-A-Perez/Informe_06/blob/master/Img/transferencia.jpg)
 
 
 4. MATERIALES
+![Materiales]()
 
 5. PROCEDIMIENTO
 
 5.1 Arme el circuito que se encuentra en la figura
+![Circuito A Armar]()
 
 5.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla. Anote los resultados medidos.
 
