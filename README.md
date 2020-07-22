@@ -20,7 +20,7 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 2.1 OBJETIVOS ESPECIFICOS
 
-2.1.1. 
+2.1.1. comprobar cual de los valores dados complementa el teorema de MTP
 
 3. MARCO TEÓRICO
 
