@@ -40,6 +40,7 @@ El teorema de maxima transferencia de pontencia, es reconocido como un adicional
 
 
 4. MATERIALES
+
 ![Materiales](https://github.com/Damian-A-Perez/Informe_06/blob/master/Img/2020-07-21%20(5).png)
 
 5. PROCEDIMIENTO
