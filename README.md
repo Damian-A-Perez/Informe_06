@@ -40,12 +40,12 @@ El teorema de maxima transferencia de pontencia, es reconocido como un adicional
 
 
 4. MATERIALES
-![Materiales]()
+![Materiales](https://github.com/Damian-A-Perez/Informe_06/blob/master/Img/2020-07-21%20(5).png)
 
 5. PROCEDIMIENTO
 
 5.1 Arme el circuito que se encuentra en la figura
-![Circuito A Armar]()
+![Circuito A Armar](https://github.com/Damian-A-Perez/Informe_06/blob/master/Img/2020-07-21%20(4).png)
 
 5.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla. Anote los resultados medidos.
 
