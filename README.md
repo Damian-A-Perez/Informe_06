@@ -92,6 +92,7 @@ RECOMENDACIONES
 
 CRONOGRAMA
 
+![CRONO6](https://github.com/Damian-A-Perez/Informe_06/blob/master/Img/cronograma%20l6.png)
 
 
 
