@@ -20,7 +20,8 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 2.1 OBJETIVOS ESPECIFICOS
 
-2.1.1. comprobar cual de los valores dados complementa el teorema de MTP
+2.1.1. Determinar cual de los valores dados complementa el teorema de MTP
+2.1.2. Observar que diferencia existe entre cada valor de resistencia requerido para los calculos
 
 3. MARCO TEÓRICO
 
@@ -89,6 +90,10 @@ Obtenemos una mayor potencia a medida que el valor de la resistencia se acerque 
 Es necesario obtener el voltaje y la resistencia Thevenin para aplicar el teorema de la maxima transferencia de potencia.
 
 RECOMENDACIONES
+
+Recordar usar de manera adecuada el multimetro para evitar una medicion de valores inexistentes o invalidos
+
+Tomar en cuenta los requisitos previos y las observaciones antes de implementar el circuito
 
 CRONOGRAMA
 
