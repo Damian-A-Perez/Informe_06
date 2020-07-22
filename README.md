@@ -104,5 +104,9 @@ CRONOGRAMA
 
 ![CRONO6](https://github.com/Damian-A-Perez/Informe_06/blob/master/Img/cronograma%20l6.png)
 
+Bibliografia:
+
+--ElectronicaUnicorn, (2020),Recuperado de:https://unicrom.com/teorema-de-maxima-transferencia-de-potencia/
+--H.W. Jackson (1959) Introduction to Electronic Circuits, Prentice-Hall.
 
 
