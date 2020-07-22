@@ -29,10 +29,16 @@ Al principio existio una confusion entre un circuito con la maxima eficiencia y 
 
 Al teorema de Maxima Transferencia de Potencia, tambien se lo reconoce como Ley de Jacobi. Debido a que Moritz von Jacobi fue el primero en descubrir su concepto.
 
-El teorema establece cómo escoger (para maximizar la transferencia de potencia) la resistencia de carga, una vez que la resistencia de fuente ha sido fijada, no lo contrario. No dice cómo escoger la resistencia de fuente, una vez que la resistencia de carga ha sido fijada. Dada una cierta resistencia de carga, la resistencia de fuente que maximiza la transferencia de potencia es siempre cero, independientemente del valor de la resistencia de carga.
+El teorema establece cómo escoger (para maximizar la transferencia de potencia) la resistencia de carga, una vez que la resistencia de fuente ha sido fijada, no lo contrario. No dice cómo escoger la resistencia de fuente, una vez que la resistencia de carga ha sido fijada. Dada una cierta resistencia de carga, la resistencia de fuente que maximiza la transferencia de potencia es siempre cero, independientemente del valor de la resistencia de carga.(H.W.Jackson(1959))
 
 De esta forma se puede concluir que, para hallar la maxima transferencia de pontencia en un circuito “La potencia máxima será desarrollada en la carga
-cuando la resistencia de carga RL sea igual a la resistencia interna de la fuente Rf”
+cuando la resistencia de carga RL sea igual a la resistencia interna de la fuente Ri”
+
+El teorema de maxima transferencia de pontencia, es reconocido como un adicional al teorema de thevenin, siendo este el punto de partida para el cual la potencia maxima en un circuito sea encontrada, tomando en cuenta los valores, las relaciones y la calidad del circuito de thevenin previamente obtenido, de esta manera observamos como los metodos de calculo y reduccion de circuitos, se pueden usar variadamente para encontrar toda clase de interrogantes.
+
+
+
+
 4. MATERIALES
 
 5. PROCEDIMIENTO
