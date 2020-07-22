@@ -23,7 +23,7 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 2.1.1. Determinar cual de los valores dados complementa el teorema de MTP
 2.1.2. Observar que diferencia existe entre cada valor de resistencia requerido para los calculos
 
-3. MARCO TEÓRICO
+# 3. MARCO TEÓRICO
 
 Teorema de Maxima Transferencia de Potencia:
 Al principio existio una confusion entre un circuito con la maxima eficiencia y la maxima transferencia de potencia, Gracias  Edison en 1880 se dio a entender que para alcanzar la maxima eficiencia, la resistencia de la fuente debia ser lo mas pequeña posible, por lo contrario. Para la maxima transferencia de pontecia en un circuito tiene lugar cuando la resistencia de carga es igual a la resistencia interna de un generador
