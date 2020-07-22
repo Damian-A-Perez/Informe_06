@@ -90,5 +90,8 @@ Es necesario obtener el voltaje y la resistencia Thevenin para aplicar el teorem
 
 RECOMENDACIONES
 
+CRONOGRAMA
+
+
 
 
